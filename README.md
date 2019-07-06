@@ -14,11 +14,18 @@ As of now, there are currently no sub-functions so the basic ones that are inclu
 ___Current Version: 1.0.0 ALPHA___!
 
 TeredoReset() - Resets the Teredo client used to chat in xbox live parties. 
+
 GetAPIinfo() - Get the current API info. 
+
 KillProcess('xbox.process') - Kills the specified xbox live process. 
+
 Disconnect() - cough cough pretty self explanatory 
+
 Connect() - If already connected just returns. 
+
 SeeNAT() - See your NAT type. 
+
 GetIPinfo() - Get's XBOX LIVE IP connection status and details. 
+
 Debug() - Finds any errors in your connection via WiFi only. (no ethernet support) 
 # That's it for now folks! c;
